@@ -1,0 +1,3 @@
+C:/Users/Lenovo/CLionProjects/157try/cmake-build-debug/CMakeFiles/157try.dir
+C:/Users/Lenovo/CLionProjects/157try/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/CLionProjects/157try/cmake-build-debug/CMakeFiles/rebuild_cache.dir
